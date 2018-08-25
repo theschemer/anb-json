@@ -1,6 +1,6 @@
 (("name" . "anb-json")
 ("version" . "1.0.0")
-("description" . "json perser written by Aldo Nicolas Bruno")
+("description" . "json parser written by Aldo Nicolas Bruno")
 ("keywords"
     ("json"))
 ("author" 
