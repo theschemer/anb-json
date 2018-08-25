@@ -21,8 +21,8 @@
 	 (scheme)
 	 (only (data-structures) string-intersperse string-translate*))
 
- (include "lalr/associators.ss")
- (include "lalr/lalr.ss")
+ (include "../lalr/associators.ss")
+ (include "../lalr/lalr.ss")
 
  (define (parse-json-str pos data escaping out)
    (cond
