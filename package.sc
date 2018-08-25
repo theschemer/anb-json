@@ -1,13 +1,13 @@
-(("name" . "ballista")
-("version" . "0.5.6")
-("description" . "Ballista is a Express style web framwork for Igropyr")
+(("name" . "anb-json")
+("version" . "1.0.0")
+("description" . "json perser written by Aldo Nicolas Bruno")
 ("keywords"
-    ("Scheme" "web" "framework" "Igropyr"))
+    ("json"))
 ("author" 
-    ("guenchi"))
+    ("Aldo Nicolas Bruno"))
 ("private" . #f)
 ("scripts")
 ("dependencies"
-    ("igropyr" . "0.2.12")
-    ("catapult" . "0.2.7"))
+    ("srfi" . "1.0.0")
+    ("data-structures" . "1.0.0"))
 ("devDependencies"))
