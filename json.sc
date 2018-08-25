@@ -13,7 +13,7 @@
 ;; See the License for the specific language governing permissions and
 ;; limitations under the License.
 
-#!chezscheme
+
 (library 
  (json)
  (export parse-json-str read-file let-json-object string->json json->string)
@@ -231,5 +231,3 @@
 	  (json->string "")]))
  
  )
-
-;;#!eof
