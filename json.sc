@@ -15,7 +15,7 @@
 
 
 (library 
- (json)
+ (anb-json json)
  (export parse-json-str read-file let-json-object string->json json->string)
  (import (srfi s14 char-sets)
 	 (scheme)
